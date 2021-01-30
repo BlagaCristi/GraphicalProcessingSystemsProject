@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+  Camera.cpp
+  Mesh.cpp
+  Model3D.cpp
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\model3d.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\model3d.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\model3d.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  OpenGL_4_Application_VS2015.cpp
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(218): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(219): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(568): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(594): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(607): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(1173): warning C4018: '<': signed/unsigned mismatch
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(1208): warning C4018: '<': signed/unsigned mismatch
+d:\1st semester\gps\labs\projectgps - blaga crisitan-ioan 30433 - copy\project\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(1281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.c
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2296 of 2323 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    61 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+SkyBox.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\OpenGL_4_Application_VS2015\Release\vc120.pdb'; linking object as if no debug info
+  OpenGL_4_Application_VS2015.vcxproj -> D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\OpenGL_4_Application_VS2015\Release\OpenGL_4_Application_VS2015.exe

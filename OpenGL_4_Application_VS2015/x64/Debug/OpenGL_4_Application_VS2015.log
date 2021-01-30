@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  Mesh.cpp
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\Camera.cpp(75,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Model3D.cpp
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\Mesh.cpp(77,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  OpenGL_4_Application_VS2015.cpp
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\Model3D.cpp(271,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Shader.cpp
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015.cpp(1474,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  SkyBox.cpp
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\Shader.cpp(99,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+D:\1st semester\GPS\Labs\ProjectGPS - Blaga Crisitan-Ioan 30433 - Copy\project\BlagaCristian_group30433_app\BlagaCristian_group30433_app\OpenGL_4_Application_VS2015\SkyBox.cpp(142,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
